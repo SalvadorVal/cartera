@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
     <id>com.pruebas.cartera</id>
-    <name>cartera</name>
+    <name>Cartera SA</name>
     <version>1.0</version>
     <publisher>Salvador_Alex</publisher>
     <url>http://</url>
     <description>undefined</description>
     <copyright>2014 by Salvador_Alex</copyright>
-    <icon>appicon.png</icon>
+    <icon>carteraicon.png</icon>
     <fullscreen>true</fullscreen>
     <navbar-hidden>true</navbar-hidden>
     <analytics>true</analytics>
