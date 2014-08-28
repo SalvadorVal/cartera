@@ -15,7 +15,7 @@
 		
 		
 			<Label id="lblSaldoD">Saldo Nuevo</Label>
-			<Label id="lblSaldoNuevo"></Label>
+			<Label id="lblSaldoNuevo">Saldo Final</Label>
 		
 	</Window>
 </Alloy>

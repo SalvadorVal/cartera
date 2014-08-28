@@ -46,4 +46,5 @@
 "#lblSaldoNuevo":{
 	top:250,
 	width:200,
+	color:"blue",
 }
