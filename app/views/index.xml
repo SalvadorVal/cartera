@@ -1,5 +1,5 @@
 <Alloy>
 	<Window class="container">
-		<Label id="label" onClick="doClick">Abrimos la ventana 2</Label>
+		<Label class="title">Deposito</Label>
 	</Window>
 </Alloy>
