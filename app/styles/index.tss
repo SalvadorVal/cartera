@@ -1,9 +1,49 @@
 ".container": {
-	backgroundColor:"white"
-},
+	backgroundColor:"white",
+	fullscreen : true,
+}
 ".title":{
 	color : "red",
 	width : Titanium.UI.SIZE,
 	textAlign: Titanium.UI.TEXT_ALIGNMENT_CENTER,
 	top:6,
+}
+"View":{
+	width:Titanium.UI.FILL,
+	backgroundColor:"#7CE867",
+}
+"#lblCantidadD":{
+	top:50,
+	width:200,
+}
+"TextField":{
+	borderStyle: Ti.UI.INPUT_BORDERSTYLE_ROUNDED,
+}
+"#tfCantidadD":{
+	top:70,
+	width:200,
+}
+"#lblConceptoD":{
+	top:100,
+	width:200,
+}
+"#tfConceptoD":{
+	top:120,
+	width:200,
+}
+"#lblFechaD":{
+	top:150,
+	width:200,
+}
+"#tftfFechaD":{
+	top:170,
+	width:200,
+}
+"#lblSaldoD":{
+	top:200,
+	width:200,
+}
+"#lblSaldoNuevo":{
+	top:250,
+	width:200,
 }

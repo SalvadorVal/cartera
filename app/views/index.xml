@@ -1,5 +1,21 @@
 <Alloy>
 	<Window class="container">
 		<Label class="title">Deposito</Label>
+		
+			<Label id="lblCantidadD">Cantidad</Label>
+			<TextField id="tfCantidadD"></TextField>
+		
+		
+			<Label id="lblConceptoD">Concepto</Label>
+			<TextField id="tfConceptoD"></TextField>
+		
+		
+			<Label id="lblFechaD">Fecha</Label>
+			<TextField id="tftfFechaD"></TextField>
+		
+		
+			<Label id="lblSaldoD">Saldo Nuevo</Label>
+			<Label id="lblSaldoNuevo"></Label>
+		
 	</Window>
 </Alloy>
